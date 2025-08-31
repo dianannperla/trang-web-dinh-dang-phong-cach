@@ -1,0 +1,16 @@
+{
+  "name": "trang-web-dinh-dang-phong-cach",
+  "version": "1.0.0",
+  "description": "Một dự án mã nguồn mở giúp bạn xây dựng các trang web tuỳ chỉnh.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "Tên bạn",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
